@@ -1,1 +1,0 @@
-const kood = "224163TAF"
